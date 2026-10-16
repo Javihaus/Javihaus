@@ -11,7 +11,11 @@ AI Engineering & Applied Research | LLMs, AI Evaluation & Verification | AI Syst
 
 ## My projects
 
-### Groundlens
+### [Groundlens](https://github.com/groundlens-dev/groundlens)
+
+<p align="center"><img width="750" src="groundlens.png" alt="description" /></p>
+
+<br>
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=groundlens-dev&show_icons=true&theme=radical&line_height=27">
@@ -19,5 +23,6 @@ AI Engineering & Applied Research | LLMs, AI Evaluation & Verification | AI Syst
 </p>
 <br>
 
-### Otwin
+### [Otwin](https://github.com/otwin-core)
 
+<p align="center"><img width="750" src="otwin.png" alt="description" /></p>
