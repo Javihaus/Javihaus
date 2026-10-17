@@ -1,9 +1,10 @@
 ## About me
 AI Engineering & Applied Research | LLMs, AI Evaluation & Verification | AI Systems Strategy
 
+<br>
+
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=javihaus&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=javihaus&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
 
@@ -11,18 +12,36 @@ AI Engineering & Applied Research | LLMs, AI Evaluation & Verification | AI Syst
 
 ## My projects
 
-### [Groundlens](https://github.com/groundlens-dev/groundlens)
+### Groundlens 
+[![GroundLens on PyPI](https://img.shields.io/pypi/v/groundlens?label=groundlens&logo=pypi&logoColor=white&color=3775A9)](https://pypi.org/project/groundlens/)
 
-<p align="center"><img width="750" src="groundlens.png" alt="description" /></p>
+<div align="center">
+
+[![groundlens](https://github-readme-stats.vercel.app/api/pin/?username=groundlens-dev&repo=groundlens&theme=radical)](https://github.com/groundlens-dev/groundlens)
+
+</div>
 
 <br>
 
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=groundlens-dev&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=groundlens-dev&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
-</p>
+### Otwin
+[![Otwin on PyPI](https://img.shields.io/pypi/v/otwin?label=otwin&logo=pypi&logoColor=white&color=3775A9)](https://pypi.org/project/otwin/)
+
+<div align="center">
+
+[![otwin-hybrid](https://github-readme-stats.vercel.app/api/pin/?username=otwin-core&repo=otwin-hybrid&theme=radical)](https://github.com/otwin-core/otwin-hybrid)
+
+</div>
+
 <br>
 
-### [Otwin](https://github.com/otwin-core)
+### Neural Dimensionality Tracker
+[![ndt on PyPI](https://img.shields.io/pypi/v/ndtracker?label=ndt&logo=pypi&logoColor=white&color=3775A9)](https://pypi.org/project/ndtracker/)
 
-<p align="center"><img width="750" src="otwin.png" alt="description" /></p>
+<div align="center">
+
+[![ndt](https://github-readme-stats.vercel.app/api/pin/?username=javihaus&repo=ndt&theme=radical)](https://github.com/javihaus/ndt)
+
+</div>
+
+<br>
+
