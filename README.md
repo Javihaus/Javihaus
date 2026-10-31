@@ -1,11 +1,17 @@
 ## About me
-AI Engineering & Applied Research | LLMs, AI Evaluation & Verification | AI Systems Strategy
+AI Engineer & Applied Researcher. I build AI systems whose behaviour can be measured, verified and trusted: LLM evaluation and verification, digital twins and calibrated forecasting.
+
+<br>
+
+<p align = "center">
+<img src = "https://github-readme-stats.vercel.app/api?username=javihaus&show_icons=true&theme=radical&line_height=27">
+</p>
 
 <br>
 
 ## My projects
 
-### Groundlens 
+### Groundlens
 [![GroundLens on PyPI](https://img.shields.io/pypi/v/groundlens?label=groundlens&logo=pypi&logoColor=white&color=3775A9)](https://pypi.org/project/groundlens/)
 
 <div align="center">
@@ -38,3 +44,14 @@ AI Engineering & Applied Research | LLMs, AI Evaluation & Verification | AI Syst
 
 <br>
 
+## Papers and code
+
+| Paper | Venue | Code |
+|---|---|---|
+| Geometry of Validity: Analyzing Trajectories Beyond Linear Probes | NeurReps, NeurIPS 2026 workshop | [code](https://github.com/Javihaus/Geometric-Analysis-of-Reasoning-Trajectories-in-LLMs) |
+| Physics-informed digital twin for grid-scale energy storage | IEEE PES General Meeting 2026, invited talk | [otwin-hybrid](https://github.com/otwin-core/otwin-hybrid) |
+| Hamiltonian Neural Networks for Robust Out-of-Time Credit Scoring | IEEE DSA 2025 | [code](https://github.com/Javihaus/Hamiltonian-Neural-Network-Optimization) |
+| Semantic Grounding Index: Geometric Bounds on Context Engagement in RAG Systems | arXiv, 2025 | [groundlens](https://github.com/groundlens-dev/groundlens) |
+| Perplexity-Based Adjacency for Uncertainty Quantification | arXiv | [code](https://github.com/Javihaus/Perplexity-Based-Adjacency-for-Uncertainty-Quantification) |
+
+Full list of papers: [Google Scholar](https://scholar.google.com/citations?user=cqDaAlEAAAAJ)
