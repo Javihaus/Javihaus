@@ -3,13 +3,6 @@ AI Engineering & Applied Research | LLMs, AI Evaluation & Verification | AI Syst
 
 <br>
 
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=javihaus&show_icons=true&theme=radical&line_height=27">
-</p>
-
-
-<br>
-
 ## My projects
 
 ### Groundlens 
