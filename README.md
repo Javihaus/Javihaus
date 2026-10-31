@@ -3,12 +3,6 @@ AI Engineer & Applied Researcher. I build AI systems whose behaviour can be meas
 
 <br>
 
-<p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=javihaus&show_icons=true&theme=radical&line_height=27">
-</p>
-
-<br>
-
 ## My projects
 
 ### Groundlens
