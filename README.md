@@ -89,7 +89,7 @@ If your AI system has to go into production and someone has to sign for it, send
 
 <img src="https://raw.githubusercontent.com/Javihaus/ndt/main/docs/assets/ndt-logo.svg" alt="ndt" width="110">
 
-<br>
+<br><br>
 
 [![ndt](https://github-readme-stats-extended.vercel.app/api/pin/?username=javihaus&repo=ndt&theme=radical)](https://github.com/javihaus/ndt) 
 
