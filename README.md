@@ -27,10 +27,15 @@ AI Engineer & Applied Researcher. I build AI systems whose behaviour can be meas
 
 <br>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Javihaus/ndt/main/docs/assets/ndt-logo.svg" alt="ndt" width="110">
+
 ### Neural Dimensionality Tracker
+
+
 [![ndt on PyPI](https://img.shields.io/pypi/v/ndtracker?label=ndt&logo=pypi&logoColor=white&color=3775A9)](https://pypi.org/project/ndtracker/)
 
-<div align="center">
 
 [![ndt](https://github-readme-stats.vercel.app/api/pin/?username=javihaus&repo=ndt&theme=radical)](https://github.com/javihaus/ndt)
 
