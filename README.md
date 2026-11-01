@@ -5,10 +5,15 @@ AI Engineer & Applied Researcher. I build AI systems whose behaviour can be meas
 
 ## My projects
 
-### Groundlens
-[![GroundLens on PyPI](https://img.shields.io/pypi/v/groundlens?label=groundlens&logo=pypi&logoColor=white&color=3775A9)](https://pypi.org/project/groundlens/)
+<br>
 
 <div align="center">
+
+![GroundLens: the answer and its passages go through GroundLens first, then an LLM judge, then human review. A policy decides, and every check leaves a signed record.](https://raw.githubusercontent.com/groundlens-dev/groundlens/main/docs/assets/groundlens_diagram.png)
+
+### Groundlens
+
+[![GroundLens on PyPI](https://img.shields.io/pypi/v/groundlens?label=groundlens&logo=pypi&logoColor=white&color=3775A9)](https://pypi.org/project/groundlens/)
 
 [![groundlens](https://github-readme-stats.vercel.app/api/pin/?username=groundlens-dev&repo=groundlens&theme=radical)](https://github.com/groundlens-dev/groundlens)
 
@@ -18,14 +23,13 @@ AI Engineer & Applied Researcher. I build AI systems whose behaviour can be meas
 
 <div align="center">
 
-<img src="https://github.com/otwin-core/otwin/blob/c21ab17c9c44ee006e3bc4f290b8c956af3f1f30/assets/brand/otwin-favicon-1a-circle.png" width="110">
+<img src="https://raw.githubusercontent.com/otwin-core/otwin/main/assets/brand/otwin-github-header-1a.png" width="100%" alt="otwin: open digital twins of real equipment">
 
 ### Otwin
 
 [![Otwin on PyPI](https://img.shields.io/pypi/v/otwin?label=otwin&logo=pypi&logoColor=white&color=3775A9)](https://pypi.org/project/otwin/)
 
-
-[![otwin-hybrid](https://github-readme-stats.vercel.app/api/pin/?username=otwin-core&repo=otwin-hybrid&theme=radical)](https://github.com/otwin-core/otwin-hybrid)
+[![otwin](https://github-readme-stats.vercel.app/api/pin/?username=otwin-core&repo=otwin&theme=radical)](https://github.com/otwin-core/otwin) [![otwin-hybrid](https://github-readme-stats.vercel.app/api/pin/?username=otwin-core&repo=otwin-hybrid&theme=radical)](https://github.com/otwin-core/otwin-hybrid)
 
 </div>
 
