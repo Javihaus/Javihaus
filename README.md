@@ -16,10 +16,14 @@ AI Engineer & Applied Researcher. I build AI systems whose behaviour can be meas
 
 <br>
 
+<div align="center">
+
+<img src="https://github.com/otwin-core/otwin/blob/c21ab17c9c44ee006e3bc4f290b8c956af3f1f30/assets/brand/otwin-favicon-1a-circle.png" width="110">
+
 ### Otwin
+
 [![Otwin on PyPI](https://img.shields.io/pypi/v/otwin?label=otwin&logo=pypi&logoColor=white&color=3775A9)](https://pypi.org/project/otwin/)
 
-<div align="center">
 
 [![otwin-hybrid](https://github-readme-stats.vercel.app/api/pin/?username=otwin-core&repo=otwin-hybrid&theme=radical)](https://github.com/otwin-core/otwin-hybrid)
 
