@@ -24,7 +24,7 @@ If your AI system has to go into production and someone has to sign for it, send
 
 # ZeroPoint
 
-<img src="https://raw.githubusercontent.com/Javihaus/zeropoint/main/assets/zeropoint-circle-large.png" width="200" alt="ZeroPoint logo">
+<img src="https://raw.githubusercontent.com/Javihaus/zeropoint/main/assets/zeropoint-header.png" width="100%" alt="ZeroPoint: four spheres above a floor; three float at different heights, the fourth almost touches the ground">
 
 <br><br>
 
@@ -50,9 +50,11 @@ If your AI system has to go into production and someone has to sign for it, send
 
 ![GroundLens: the answer and its passages go through GroundLens first, then an LLM judge, then human review. A policy decides, and every check leaves a signed record.](https://raw.githubusercontent.com/groundlens-dev/groundlens/main/docs/assets/groundlens_diagram.png)
 
-[![GroundLens on PyPI](https://img.shields.io/pypi/v/groundlens?label=groundlens&logo=pypi&logoColor=white&color=3775A9)](https://pypi.org/project/groundlens/)
-
 [![groundlens](https://github-readme-stats-extended.vercel.app/api/pin/?username=groundlens-dev&repo=groundlens&theme=radical)](https://github.com/groundlens-dev/groundlens)
+
+<br>
+
+[![GroundLens on PyPI](https://img.shields.io/pypi/v/groundlens?label=groundlens&logo=pypi&logoColor=white&color=3775A9)](https://pypi.org/project/groundlens/)
 
 <br>
 
@@ -95,11 +97,13 @@ If your AI system has to go into production and someone has to sign for it, send
 
 <br> 
 
-[![Otwin on PyPI](https://img.shields.io/pypi/v/otwin?label=otwin&logo=pypi&logoColor=white&color=3775A9)](https://pypi.org/project/otwin/)
-
 [![otwin](https://github-readme-stats-extended.vercel.app/api/pin/?username=otwin-core&repo=otwin&theme=radical)](https://github.com/otwin-core/otwin) 
 
 [![otwin-hybrid](https://github-readme-stats-extended.vercel.app/api/pin/?username=otwin-core&repo=otwin-hybrid&theme=radical)](https://github.com/otwin-core/otwin-hybrid)
+
+<br>
+
+[![Otwin on PyPI](https://img.shields.io/pypi/v/otwin?label=otwin&logo=pypi&logoColor=white&color=3775A9)](https://pypi.org/project/otwin/)
 
 <br>
 
