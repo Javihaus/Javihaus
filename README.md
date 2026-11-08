@@ -18,9 +18,13 @@ Open source: Groundlens (guardrails for LLM answers) and Otwin (a physics engine
 
 If your AI system has to go into production and someone has to sign for it, send me a message to javier@jmarin.info
 
-<br><br>
+<br>
 
 <div align="center">
+
+[![My account](https://github-stats-extended.vercel.app/api?username=javihaus)](https://github.com/stats-organization/github-stats-extended)
+
+<br>
 
 # ZeroPoint
 
@@ -28,11 +32,12 @@ If your AI system has to go into production and someone has to sign for it, send
 
 <br><br>
 
-[![Zeropoint](https://github-readme-stats-extended.vercel.app/api/pin/?username=javihaus&repo=zeropoint&theme=radical)](https://github.com/javihaus/zeropoint) 
+[![zeropoint](https://github-readme-stats-extended.vercel.app/api/pin/?username=javihaus&repo=zeropoint&theme=radical)](https://github.com/javihaus/zeropoint) 
+
 
 <br>
 
-[![Zeropoint on PyPI](https://img.shields.io/pypi/v/zeropoint?label=zeropoint&logo=pypi&logoColor=white&color=3775A9)](https://pypi.org/project/zeropoint/)
+[![Zeropoint on PyPI](https://img.shields.io/pypi/v/zeropoint?label=zeropoint&logo=pypi&logoColor=white&color=3775A9)](https://pypi.org/javihaus/zeropoint/)
 
 
 
